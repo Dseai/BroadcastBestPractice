@@ -1,0 +1,18 @@
+<resources>
+    <string name="text1">孙亚楠你怎么可以这么厉害！</string>
+    <string name="app_name">ActivityCollector</string>
+    <string name="text2">你可以在这输点东西，虽然输了也不管用</string>
+    <string name="baidu">百度一下</string>
+    <string name="Progressdialog">Progressdialog</string>
+    <string name="进度条">进度条</string>
+    <string name="对话框">对话框</string>
+    <string name="拨号">拨号</string>
+    <string name="发送通知">发送通知</string>
+    <string name="取消通知">取消通知！</string>
+    <string name="save_data">save data！</string>
+    <string name="seekbar">seekbar</string>
+    <string name="图片">图片</string>
+    <string name="text3">深海2.0@开发者：孙亚楠</string>
+    <string name="Create_data_base">Create data base</string>
+
+</resources>
